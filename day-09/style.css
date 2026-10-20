@@ -21,6 +21,23 @@ p{
     color: #555;
 }
 
+/* Style the card */
+.card {
+    padding: 20px;
+    background-color: #0c1328;
+    color: white;
+    border-radius: 8px;
+    margin-top: 30px;
+    transition: border 0.3s ease;
+}
+
+/* Add hover state */
+.card:hover {
+    border: 1px solid #04AA6D;
+
+}
+
+
 .btn-success,
 .btn-danger,
 .btn-warning,
