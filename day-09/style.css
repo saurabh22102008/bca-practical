@@ -38,7 +38,7 @@ p{
     color: white;
 }
 .btn-success:hover {
-    background-color: #2d0ce9;
+    background-color: #146c43;
  transform :translateY(-3px)
 }
 
@@ -48,7 +48,7 @@ p{
     color: white;
 }   
 .btn-danger:hover {
-    background-color: #0ae6db;
+    background-color: #b02a37;
     transform :translateY(-3px)
 }
 
@@ -58,7 +58,7 @@ p{
 }
 
 .btn-warning:hover {
-    background-color: #e65a096e;
+    background-color: #e0a800;
     transform :translateY(-3px)
 }
 
@@ -66,11 +66,11 @@ p{
 .btn-outline {
     background-color: transparent;
     color: #0d6efd;
-    border: 2px solid #11c992;
+    border: 2px solid #0d6efd;
 }
 
 .btn-outline:hover {
-    background-color: #cc6b80b6;
+    background-color: #0d6efd;
     color: rgb(244, 248, 248);
     transform :translateY(-3px)
 }
